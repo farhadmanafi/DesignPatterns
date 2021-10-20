@@ -1,0 +1,16 @@
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.AssemblyReference.cache
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfoInputs.cache
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.AssemblyInfo.cs
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.csproj.CoreCompileInputs.cache
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.exe
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.deps.json
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.runtimeconfig.json
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.runtimeconfig.dev.json
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.dll
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\ref\SingletonDesignPattern.dll
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\net5.0\SingletonDesignPattern.pdb
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.dll
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\ref\SingletonDesignPattern.dll
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.pdb
+H:\C# Learning\آموزش دیزاین پترن ها (Design Pattern) در سی شارپ\Git\SingletonDesignPattern\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\net5.0\SingletonDesignPattern.genruntimeconfig.cache
